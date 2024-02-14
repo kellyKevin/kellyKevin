@@ -12,6 +12,13 @@
 - 📫 How to reach me **kellymomanyi80@gmail.com**
 
 - ⚡ Fun fact **humor**
+  
+- 👋 Hello World! I'm kelly kevin momanyi
+  
+- 🚀 I'm an ALX enthusiast
+  
+- 📚 Learning is a lifelong journey,
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
