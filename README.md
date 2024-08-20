@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **open to different stacks**
 
-- 💬 Ask me about **android, MEARN**
-
 - 📫 How to reach me **kellymomanyi80@gmail.com**
 
 - ⚡ Fun fact **humor**
