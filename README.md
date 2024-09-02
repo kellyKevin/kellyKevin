@@ -35,20 +35,11 @@
 </p>
 
 ### 🛠️ Languages and Tools:
-<p align="center">
+
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
     <br><strong>HTML</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <br><strong>Python</strong>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-    <br><strong>C</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
@@ -59,6 +50,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <br><strong>JavaScript</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <br><strong>Python</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+    <br><strong>C</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
