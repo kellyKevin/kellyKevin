@@ -21,16 +21,16 @@
 ### 🌍 Connect with me:
 <p align="center">
   <a href="https://twitter.com/kellyke29748136" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kellyke29748136" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kellyke29748136" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/kelly-kevin-769977287" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelly kevin" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelly kevin" height="30" width="40" />
   </a>
   <a href="https://fb.com/kelly.kevin.9279" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelly kevin" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelly kevin" height="30" width="40" />
   </a>
   <a href="https://instagram.com/kelly_kevin_momanyi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelly_kevin_momanyi" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelly_kevin_momanyi" height="30" width="40" />
   </a>
 </p>
 
@@ -39,42 +39,42 @@
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
-    <br><strong>HTML</strong>
+    <strong>HTML</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
-    <br><strong>CSS</strong>
+    <strong>CSS</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <br><strong>JavaScript</strong>
+    <strong>JavaScript</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <br><strong>Python</strong>
+    <strong>Python</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-    <br><strong>C</strong>
+    <strong>C</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-    <br><strong>Firebase</strong>
+    <strong>Firebase</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-    <br><strong>Git</strong>
+    <strong>Git</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-    <br><strong>Docker</strong>
+    <strong>Docker</strong>
   </a>
 </p>
 
