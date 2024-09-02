@@ -5,14 +5,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20views&color=0e75b6&style=flat" alt="kellykevin" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20views&color=0e75b6&style=flat" alt="kellykevin" />
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://twitter.com/kellyke29748136" target="blank">
     <img src="https://img.shields.io/twitter/follow/kellyke29748136?logo=twitter&style=for-the-badge" alt="kellykevin" />
-  </a> 
+  </a>
 </p>
 
 - 🌱 I’m currently diving into **various tech stacks** and experimenting with **new tools and technologies**.
@@ -37,7 +37,6 @@
 </p>
 
 ### 🛠️ Languages and Tools:
-
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
@@ -110,5 +109,5 @@
 
 ### 💬 Let's Connect!
 Feel free to reach out if you'd like to **collaborate on projects**, **learn together**, or just **chat about tech**.
-- 🌍 **[linktr.ee ](https://linktr.ee/kellykevinmomanyi)**
+- 🌍 **[linktr.ee](https://linktr.ee/kellykevinmomanyi)**
 ---
