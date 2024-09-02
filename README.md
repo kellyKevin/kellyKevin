@@ -24,40 +24,52 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="center"> 
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
     <br><strong>HTML</strong>
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
     <br><strong>Python</strong>
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
     <br><strong>C</strong>
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/>
     <br><strong>CSS</strong>
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
     <br><strong>JavaScript</strong>
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
     <br><strong>Firebase</strong>
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
     <br><strong>Git</strong>
-  </a> 
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
     <br><strong>Docker</strong>
-  </a> 
+  </a>
 </p>
+
+<p align="center">
+  <i>Passionate about coding with these technologies! 🚀</i>
+</p>
+
 
 <p align="center">
   <i>Passionate about coding with these technologies! 🚀</i>
