@@ -75,7 +75,7 @@
 ### 🎨 Recent Projects:
 - 🔧 **[Archer Movies/Series Dealership](https://kellykevin.github.io/Kelly/)**: A central hub for entertainment enthusiasts, offering info on movies and series. Users can discover new films, read reviews, and find streaming options, solving the problem of fragmented information..
 - 🌟 **[Ottawa's Premier Garden Centre](https://kellykevin.github.io/seedlingsweb/)**: A comprehensive e-commerce platform and online marketplace specializing in seedling sales, connecting farmers with quality seedlings and empowering easy access to agricultural essentials..
-- 🚀 **[Project Name](#)**: Brief description of the project.
+- 🚀 **[Riches & Kelly's Portfolio](https://kellykevin.github.io/riches-kelly-portfolio/)**: Portfolio.
 
 ### 🧠 My Learning Path:
 - 📘 Currently diving deep into **React** and **Node.js**.
