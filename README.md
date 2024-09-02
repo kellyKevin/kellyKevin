@@ -89,6 +89,6 @@
 
 ### 💬 Let's Connect!
 Feel free to reach out if you'd like to **collaborate on projects**, **learn together**, or just **chat about tech**.
-
+- 🚀 **[linktr.ee ](https://linktr.ee/kellykevinmomanyi)**
 ---
 
