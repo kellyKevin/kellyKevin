@@ -1,7 +1,7 @@
-![Banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 <h1 align="center">Hi 👋, I'm Kelly Kevin</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center"> Developer | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,33 +14,25 @@
 
 ### 🌱 About Me
 
-- 🔭 Currently building creative web projects with a focus on **frontend development**
-- 🚀 Passionate about **learning new tech stacks**, **design systems**, and **clean UI/UX**
-- 🌍 Based in **Kenya**, thriving in the ALX Software Engineering program
-- 💬 Let's connect: **kellymomanyi80@gmail.com**
+- 🔭 Fullstack developer building responsive, user-friendly websites
+- 🚀 Passionate about innovation and collaboration
+- 💡 Lifelong learner exploring **React**, **Node.js**, **Python AI/ML** etc
+- 📫 Reach me at: **kellymomanyi80@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- 🎬 **[Archer Movies & Series](https://kellykevin.github.io/Kelly/)** – An entertainment hub to discover movies, read reviews, and more.
-- 🪴 **[Seedlings Web](https://kellykevin.github.io/seedlingsweb/)** – E-commerce platform for seedlings and agri-essentials.
-- 💼 **[Portfolio Site](https://kellykevin.github.io/riches-kelly-portfolio/)** – Showcasing my personal work and collaborations.
 
 ---
 
