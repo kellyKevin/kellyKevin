@@ -1,75 +1,114 @@
 ![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 <h1 align="center">Hi 👋, I'm Kelly Kevin</h1>
-<h3 align="center">Software Developer | Backend Engineer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://twitter.com/kellyke29748136" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/kellyke29748136?logo=twitter&style=for-the-badge" alt="twitter follow" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Full-Stack+Engineer;IoT+Systems+Builder;Problem+Solver&center=true&width=500&height=45">
 </p>
+
+<h3 align="center">Building scalable systems, APIs & real-world tech solutions</h3>
 
 ---
 
-## 🌱 About Me
+## 🚀 About Me
 
-I am a software developer focused on building scalable backend systems, RESTful APIs, and modern web applications.  
-I have hands-on experience in both software development and IT systems support from real-world enterprise environments.
+I am a **Backend & Full-Stack Developer** with experience in building real-world systems across **software, IoT, and data-driven applications**.
 
-I enjoy solving real problems using technology, learning new tools, and building efficient systems that are practical and reliable.
+I focus on:
+- ⚙️ Backend systems & REST APIs  
+- 🌐 Full-stack web applications  
+- 📡 IoT systems (ESP32 + sensors)  
+- 📊 Data-driven decision systems  
 
-- 🔭 Currently working on backend & full-stack projects  
-- ⚙️ Strong interest in APIs, databases, and system design  
-- 🌍 Experience in real-world IT support (enterprise environment)  
-- 📫 Reach me at: **kellymomanyi80@gmail.com**
+I enjoy turning ideas into **practical, scalable, and impactful solutions**.
+
+---
+
+## 🔥 Featured Projects
+
+### 🌱 IoT Smart Irrigation System  
+🔗 https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system
+
+- ESP32-based real-time monitoring system
+- Sensor-driven irrigation logic
+- Local web server + live data display
+- Fully offline-capable system
+
+👉 **Impact:** Helps farmers make smarter irrigation decisions using real-time data
+
+---
+
+### 📊 Galaxy Wellbeing Index Prediction  
+🔗 https://github.com/kellyKevin/galaxy-wellbeing-index-prediction
+
+- Data analysis & prediction system
+- Focus on behavioral and wellbeing metrics
+- Built using data modeling techniques
+
+👉 **Focus:** Data science + predictive systems
+
+---
+
+### 🌐 Full-Stack Portfolio System  
+🔗 https://github.com/kellyKevin/riches-kelly-portfolio
+
+- React + Node.js + MongoDB
+- Authentication system (secure login)
+- Blog + project showcase system
+
+👉 **Focus:** Full-stack engineering & user experience
+
+---
+
+## 🧠 Currently Working On
+
+### 🧠 Human State Intelligence System (HSIS)
+
+A system that analyzes human behavioral data to:
+
+- Detect current mental/behavioral state  
+- Explain WHY the state exists  
+- Predict future state changes  
+- Recommend actionable improvements  
+
+⚙️ Tech Direction:
+- Backend: FastAPI / Node.js  
+- Data Processing: Python (Pandas, NumPy)  
+- Frontend: React  
+- Goal: Build a real-time behavioral intelligence system  
+
+👉 This project combines **AI, data science, and system design**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend & Systems
+### Backend & Systems
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST APIs-02569B?style=flat" />
+  <img src="https://img.shields.io/badge/APIs-02569B?style=flat" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Frontend
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
-### ⚙️ Tools & DevOps
+### IoT & Systems
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Sensors-IoT-blue?style=flat" />
+</p>
+
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
 </p>
-
----
-
-## 🚀 Projects
-
-### 🧠 Smart Irrigation & Weather System
-- Built a full-stack IoT system using ESP32, React, Node.js, and Express
-- Integrated weather APIs for real-time environmental data
-- Designed backend APIs for sensor data processing and storage
-
-### 🔌 RESTful API System
-- Developed backend APIs using Node.js & Express
-- Implemented CRUD operations and database integration
-- Tested endpoints using Postman
-
-### 🌐 Portfolio Website
-- Built responsive personal portfolio using React
-- Showcased projects and technical skills
-- Deployed using Vercel
 
 ---
 
@@ -83,11 +122,9 @@ I enjoy solving real problems using technology, learning new tools, and building
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Connect With Me
 
 <p>
-  <a href="https://twitter.com/kellyke29748136"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kelly-kevin-769977287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/kelly_kevin_momanyi"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://fb.com/kelly.kevin.9279"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:kellymomanyi80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
