@@ -131,19 +131,6 @@
 
 ---
 
-## 💼 Experience
-
-### 🏛 ICT Trainee — National Treasury (IFMIS Department)
-📍 Nairobi, Kenya  
-📅 May 2025 – Nov 2025
-
-- Supported **Oracle database setup & configuration**
-- Managed **user authentication & access control**
-- Worked with **VPNs & secure systems**
-- Troubleshot **network & system-level issues**
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
