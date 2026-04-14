@@ -1,7 +1,7 @@
 ![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 <h1 align="center">Hi 👋, I'm Kelly Kevin Momanyi</h1>
-<h3 align="center">Backend Engineer | Systems Developer | Data-Focused Builder</h3>
+<h3 align="center">Backend Engineer | Systems Developer | IoT Innovator | Data Engineering Path</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20views&color=0e75b6&style=flat" />
@@ -14,25 +14,36 @@
 
 ## 🚀 About Me
 
-I am a **backend-focused software engineer** with experience in **API development, database systems, and enterprise IT environments**.
+I am a **backend-focused software engineer** with a strong foundation in **API development, database systems, and enterprise IT environments**.
 
-I have worked with structured data systems in secure environments during my time at the **National Treasury (IFMIS Department)**, and I build practical, real-world solutions combining **software, data, and systems thinking**.
+I have hands-on experience supporting **large-scale government systems (IFMIS – National Treasury Kenya)**, where I worked with secure infrastructures, database systems, and operational workflows.
 
-- 🔭 Currently building **data-driven systems and backend services**
-- 🧠 Transitioning into **Data Science & Data Engineering**
-- ⚙️ Strong in **API development, system design & debugging**
-- 🌍 Interested in **scalable systems for agriculture, infrastructure, and real-world impact**
+💡 My work sits at the intersection of:
+- Backend Engineering
+- Data Systems
+- Real-world Problem Solving
 
-📫 Reach me at: **kellymomanyi80@gmail.com**
+I build **practical, scalable systems**, not just projects.
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Direction
 
-- Backend Engineering (APIs, system design)
-- Data Science fundamentals (Python, Pandas, analysis)
-- System Architecture & Integration
-- Real-time data systems (IoT + backend)
+🔭 Building **data-driven backend systems & integrations**  
+🧠 Transitioning into **Data Engineering & Data Science**  
+⚙️ Learning **Java (Spring Boot), system design & scalable architectures**  
+🌍 Focused on **impact-driven tech (agriculture, infrastructure, intelligent systems)**  
+
+---
+
+## 🧠 Engineering Profile
+
+- Strong in **structured data & system logic**
+- Experienced in **secure and enterprise environments**
+- Focused on **API-driven architectures**
+- Growing into **data-intensive system design**
+
+> I aim to become a **Data Engineer / Systems Architect** building scalable, intelligent systems.
 
 ---
 
@@ -48,56 +59,73 @@ I have worked with structured data systems in secure environments during my time
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat"/>
+  <img src="https://img.shields.io/badge/Java (Learning)-ED8B00?style=flat&logo=java&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### 🗄 Databases
 <p>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 </p>
 
-### 🛠 Tools & Environment
+### 🔌 Tools & Systems
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-WSL-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps (Exposure)
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-Concepts-blue?style=flat"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌱 Smart Irrigation & Weather Monitoring System  
-🔗 https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system  
+### 🌱 Smart Irrigation & Weather Monitoring System
+🔗 https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system
 
-- IoT-based system for real-time soil moisture monitoring  
-- Processes environmental data for irrigation decision-making  
-- Designed for **low-resource and offline-capable environments**  
-
-**Focus:** `IoT` • `Data Collection` • `System Integration`
-
----
-
-### 📊 Wellbeing Prediction System  
-
-- Data-driven system for analyzing behavioral inputs  
-- Identifies patterns and generates predictive insights  
-- Foundation for future machine learning models  
-
-**Focus:** `Data Analysis` • `Prediction Systems`
+- IoT-based real-time soil monitoring system using ESP32  
+- Data collection, processing & backend integration  
+- Designed for **resource-constrained rural environments**  
+- Demonstrates **system integration + real-world deployment thinking**
 
 ---
 
-### 🌐 Full-Stack Applications  
+### 📊 Wellbeing Prediction System
+🔗 https://github.com/kellyKevin/galaxy-wellbeing-index-prediction
 
-- Built scalable applications using React, Node.js, and Firebase  
-- Developed RESTful APIs and handled backend logic  
-- Integrated frontend interfaces with backend services  
+- Data-driven system for analyzing and predicting user wellbeing  
+- Focus on **pattern recognition & insights generation**  
+- Foundation for future **ML/AI systems**
 
-**Focus:** `API Development` • `System Design`
+---
+
+### 🌐 Full-Stack Applications
+🔗 https://github.com/kellyKevin/Webstack_Portfolio_Project
+
+- Built scalable web applications using React + Node.js  
+- Developed REST APIs and handled backend logic  
+- Integrated authentication, databases, and UI systems  
+
+---
+
+## 💼 Experience
+
+### 🏛 ICT Trainee — National Treasury (IFMIS)
+- Supported **Oracle database systems**
+- Managed **user access control & system permissions**
+- Worked in **secure enterprise environments (VPN, role-based systems)**
+- Participated in **system troubleshooting & operations**
+
+💡 Gained exposure to:
+- Enterprise system architecture  
+- Data integrity & governance  
+- Large-scale IT operations  
 
 ---
 
@@ -113,11 +141,11 @@ I have worked with structured data systems in secure environments during my time
 
 ## 🎯 What I Bring
 
-- Strong **backend engineering foundation**
-- Experience working with **enterprise systems (IFMIS)**
-- Ability to build **data-driven and real-world applications**
-- Growing expertise in **data systems and analytics**
-- High adaptability in **complex and resource-constrained environments**
+✔ Backend engineering mindset  
+✔ Strong data handling & system logic  
+✔ Enterprise system exposure  
+✔ Real-world problem-solving approach  
+✔ Ability to learn and adapt quickly  
 
 ---
 
@@ -133,4 +161,4 @@ I have worked with structured data systems in secure environments during my time
 
 ## ⚡ Philosophy
 
-> Build systems that solve real-world problems — scalable, efficient, and data-driven.
+> "Build scalable systems that solve real-world problems — powered by data, driven by purpose."
