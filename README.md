@@ -14,7 +14,7 @@
 
 > *"I see the full chain now. Your life is already a data pipeline."*
 
-## 🚀 Kuhusu Mimi (The Causal Journey)
+## 🚀 Kuhusu Mimi
 
 I am not just a developer; I am a **Chain Analyst**. I don't just "jump topics"—I follow the data like a detective. Every step of my journey has been a logical progression toward understanding and hardening the systems that sustain civilization.
 
