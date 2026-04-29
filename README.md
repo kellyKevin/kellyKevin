@@ -22,7 +22,7 @@ I am not just a developer; I am a **Chain Analyst**. I don't just "jump topics"â
 
 ```mermaid
 graph TD
-    "A" -->|"Wanting to build"| "B"["Backend & AWS Certification"]
+    "A"[Zetech University] -->|"Wanting to build"| "B"["Backend & AWS Certification"]
     "B" -->|"Production skills"| "C"["Final Year: ESP32 Irrigation IoT"]
     "C" -->|"Weather Data Needs"| "D"["API Integration & Data Discovery"]
     "D" -->|"The Oracle Bunker"| "E"["National Treasury (IFMIS)"]
