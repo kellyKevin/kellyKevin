@@ -1,6 +1,6 @@
 ![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-<h1 align="center">Hi 👋, I'm Kelly Kevin</h1>
+<h1 align="center">Mambo Vipi! 👋, I'm Kelly Kevin</h1>
 <h3 align="center">Full-Stack Developer | Backend Engineer | IoT Builder | Aspiring Data Scientist</h3>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Kuhusu Mimi (About Me)
 
-💡 I am a **self-driven IT professional** with strong experience in **backend development, system operations, and IoT systems**.
+💡 I am a **self-driven IT professional** from Kenya 🇰🇪 with strong experience in **backend development, system operations, and IoT systems**.
 
 - 🔭 Currently building **data-driven & IoT systems**
 - 🧠 Exploring **Data Science & Intelligent Systems (HSIS v2)**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧠 Currently Working On
+## 🧠 Miradi Ninayofanyia Kazi (Currently Working On)
 
 ### 🧠 Human State Intelligence System (HSIS v2)
 > A system that models human internal states using behavioral data.
@@ -39,51 +39,20 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Zana Zangu za Kazi (Tech Stack)
 
-### 💻 Programming & Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Systems
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white"/>
-</p>
-
-### 🗄 Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
-
-### 🛠 Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,vue,html,css,nodejs,express,laravel,mysql,firebase,docker,ubuntu,postman,oracle" />
+  </a>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Miradi Teule (Featured Projects)
 
 ### 🌱 IoT Soil Moisture Monitoring System
-🔗 https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system
+🔗 [View Project](https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system)
 
 - Built using **ESP32 + sensor + LCD + web server**
 - Real-time irrigation insights
@@ -96,7 +65,7 @@
 ---
 
 ### 📊 Galaxy Wellbeing Prediction System
-🔗 https://github.com/kellyKevin/galaxy-wellbeing-index-prediction
+🔗 [View Project](https://github.com/kellyKevin/galaxy-wellbeing-index-prediction)
 
 - Data-driven prediction system
 - Focus on **analysis & modeling**
@@ -108,7 +77,7 @@
 ---
 
 ### 🌐 Seedlings E-commerce Platform
-🔗 https://github.com/kellyKevin/Webstack_Portfolio_Project
+🔗 [View Project](https://github.com/kellyKevin/Webstack_Portfolio_Project)
 
 - Built with **React + Firebase + Contentful**
 - Marketplace + educational platform
@@ -120,7 +89,7 @@
 ---
 
 ### 💼 Developer Portfolio Website
-🔗 https://github.com/kellyKevin/riches-kelly-portfolio
+🔗 [View Project](https://github.com/kellyKevin/riches-kelly-portfolio)
 
 - Personal + collaborative portfolio
 - Blog + project showcase
@@ -131,7 +100,7 @@
 
 ---
 
-## 💼 Experience
+## 💼 Uzoefu Wangu wa Kazi (Experience)
 
 ### 🏛 ICT Trainee — National Treasury (IFMIS Department)
 📍 Nairobi, Kenya  
@@ -144,17 +113,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Takwimu Zangu za GitHub (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kellykevin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kellykevin&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellykevin&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellykevin&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 What I Bring
+## 🎯 Yale Ninayoleta Mezani (What I Bring)
 
 ✔ Strong **backend engineering mindset**  
 ✔ Ability to build **real-world systems (IoT + web)**  
@@ -164,16 +133,16 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Tushirikiane (Connect With Me)
 
-<p>
-  <a href="https://twitter.com/kellyke29748136"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kelly-kevin-769977287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://linktr.ee/kellykevinmomanyi"><img src="https://img.shields.io/badge/Linktree-%23000000.svg?&style=flat&logo=linktree&logoColor=white"/></a>
+<p align="center">
+  <a href="https://twitter.com/kellyke29748136"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kelly-kevin-769977287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linktr.ee/kellykevinmomanyi"><img src="https://img.shields.io/badge/Linktree-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white"/></a>
 </p>
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Falsafa Yangu (Philosophy)
 
 > "Build systems that solve real problems — not just code that works."
