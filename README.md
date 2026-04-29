@@ -22,15 +22,15 @@ I am not just a developer; I am a **Chain Analyst**. I don't just "jump topics"â
 
 ```mermaid
 graph TD
-    "A"["Zetech University"] -->|"Wanting to build"| "B"["Backend & AWS Certification"]
-    "B" -->|"Production skills"| "C"["Final Year: ESP32 Irrigation IoT"]
-    "C" -->|"Weather Data Needs"| "D"["API Integration & Data Discovery"]
-    "D" -->|"The Oracle Bunker"| "E"["National Treasury (IFMIS)"]
-    "E" -->|"Systems Thinking"| "F"["Security: 'Why Bunkers?'"]
-    "F" -->|"Studying Failure"| "G"["Philosophy & Historical Root Cause Analysis"]
-    "G" -->|"Modern Conflict"| "H"["Drone Strikes -> Blackouts -> Crop Failure"]
-    "H" -->|"Resilience"| "I"["Deep Agents & LangChain"]
-    "I" -->|"Data Science"| "J"["Causal Security"]
+    A["Zetech University"] -->|"Wanting to build"| B["Backend & AWS Certification"]
+    B -->|"Production skills"| C["Final Year: ESP32 Irrigation IoT"]
+    C -->|"Weather Data Needs"| D["API Integration & Data Discovery"]
+    D -->|"The Oracle Bunker"| E["National Treasury (IFMIS)"]
+    E -->|"Systems Thinking"| F["Security: 'Why Bunkers?'"]
+    F -->|"Studying Failure"| G["Philosophy & Historical Root Cause Analysis"]
+    G -->|"Modern Conflict"| H["Drone Strikes -> Blackouts -> Crop Failure"]
+    H -->|"Resilience"| I["Deep Agents & LangChain"]
+    I -->|"Data Science"| J["Causal Security"]
 ```
 
 **The Narrative:**
