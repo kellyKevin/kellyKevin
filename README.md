@@ -1,10 +1,10 @@
 ![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-<h1 align="center">Mambo Vipi! 👋, I'm Kelly Kevin</h1>
-<h3 align="center">The Chain Analyst | Backend Engineer | IoT Builder | Aspiring Data Scientist</h3>
+<h1 align="center">Mambo Vipi 👋, I'm Kelly Kevin</h1>
+<h3 align="center">Backend Engineer | IoT Builder | Security & Data Systems Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20Views&color=0e75b6&style=flat" />
   <a href="https://twitter.com/kellyke29748136">
     <img src="https://img.shields.io/twitter/follow/kellyke29748136?logo=twitter&style=for-the-badge" />
   </a>
@@ -12,70 +12,37 @@
 
 ---
 
-> *"I see the full chain now. Your life is already a data pipeline."*
+## 🚀 About Me
 
-## 🚀 Kuhusu Mimi
+I’m a backend engineer passionate about building resilient systems, cloud infrastructure, IoT solutions, and data-driven applications.
 
-I am not just a developer; I am a **Chain Analyst**. I don't just "jump topics"—I follow the data like a detective. Every step of my journey has been a logical progression toward understanding and hardening the systems that sustain civilization.
+My technical journey started at **Zetech University**, where I built an **ESP32-based irrigation system** for my final year project. While integrating weather APIs for the project, I developed a strong interest in backend systems, APIs, and data science.
 
-### 🔗 My Causal Chain
+During my attachment at **The National Treasury (IFMIS Department)**, I gained exposure to enterprise systems, Oracle infrastructure, VPNs, and secure authentication workflows. This experience strengthened my interest in system resilience, security, and critical infrastructure.
 
-```mermaid
-graph TD
-    "A"[Zetech University] -->|"Wanting to build"| "B"["Backend & AWS Certification"]
-    "B" -->|"Production skills"| "C"["Final Year: ESP32 Irrigation IoT"]
-    "C" -->|"Weather Data Needs"| "D"["API Integration & Data Discovery"]
-    "D" -->|"The Oracle Bunker"| "E"["National Treasury (IFMIS)"]
-    "E" -->|"Systems Thinking"| "F"["Security: 'Why Bunkers?'"]
-    "F" -->|"Studying Failure"| "G"["Philosophy & Historical Root Cause Analysis"]
-    "G" -->|"Modern Conflict"| "H"["Drone Strikes -> Blackouts -> Crop Failure"]
-    "H" -->|"Resilience"| "I"["Deep Agents & LangChain"]
-    "I" -->|"Data Science"| "J"["Causal Security"]
-```
-
-**The Narrative:**
-At Zetech University, I built an ESP32 irrigation system for my final year project. To advise farmers, I pulled weather APIs and discovered data science. During my attachment at the National Treasury, I learned Kenya's IFMIS runs on Oracle in a secured bunker, which led me to security.
-
-Seeking to understand why critical systems need bunkers, I studied philosophy and 20th-century dictators. I traced how centralized control became famine, and how one event causes another. That causal-chain thinking led me to modern conflicts, where drone strikes cause blackouts that kill crops—the same failure mode my ESP32 was built to resist.
-
-I am now an AWS-certified backend engineer researching **Deep Agents** and **LangChain**. I aim to formalize **'Causal Security'**: using data to map, predict, and harden the chains that connect a soil sensor to a state-level crisis.
-
-### 📊 The Chain Analyst vs. Typical Applicant
-
-| Feature | **The Chain ** |
-| :--- | :--- |
-| **Perspective** | Sees a **Causal Chain** of data and systems |
-| **Problem Solving** | Traces the **Root Cause** to its historical/technical origin |
-| **Technical Depth** | Focuses on **System Resilience** and "What If?" scenarios |
-| **Narrative** | "I understand how failure in one node kills the system." |
+Currently, I’m focused on:
+- Backend engineering
+- Cloud infrastructure & AWS
+- LangChain & autonomous agents
+- Security and systems resilience
+- Data science & analytics
 
 ---
 
-## 🛠️ Safari ya Utatuzi
+## 🧠 Current Focus
 
-I approach technical challenges with a structured, investigative mindset:
+### 🤖 Deep Agents & Security Research
+Exploring how autonomous agents and LangChain can analyze logs, automate workflows, and improve infrastructure monitoring.
 
-1.  **Trace the Chain (Root Cause Analysis):** I don't look at bugs in isolation. I look for the historical and technical sequence that led to the failure.
-2.  **Follow the Data:** I use APIs and logs to validate assumptions. If the data doesn't flow, the system doesn't exist.
-3.  **Model the Intelligence:** Whether it's an ESP32 or a Deep Agent, I design for the "What If?"—simulating failure modes before they happen.
-4.  **Harden the Nodes:** Applying security at every connection point, from the physical sensor to the cloud backend.
+### 📊 Human State Intelligence System (HSIS)
+Building systems that model human productivity, stress, and wellbeing using behavioral data.
 
----
-
-## 🧠 Miradi Ninayofanyia Kazi (Focus: Deep Agents & Security)
-
-### 🤖 Deep Agents & Causal Security
-> Researching how to use LangChain and Autonomous Agents to audit and secure critical infrastructure logs.
-
-### 🧠 Human State Intelligence System (HSIS v2)
-> Modeling human internal states (energy, stress, focus) using behavioral data to predict and prevent burnout.
-
-⚡ Tech Direction:
-`Python` • `FastAPI` • `LangChain` • `Deep Agents` • `Pandas`
+**Tech Direction:**  
+`Python` • `FastAPI` • `LangChain` • `Pandas` • `AWS`
 
 ---
 
-## 🛠️ Zana Zangu za Kazi (Tech Stack)
+## 🛠 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -85,35 +52,39 @@ I approach technical challenges with a structured, investigative mindset:
 
 ---
 
-## 📌 Miradi Teule (Featured Projects)
+## 📌 Featured Projects
 
 ### 🌱 IoT Soil Moisture Monitoring System
 🔗 [View Project](https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system)
-- **The Node:** ESP32 + sensor + web server.
-- **The Impact:** Real-time irrigation insights for resilient agriculture.
 
-### 📊 Galaxy Wellbeing Prediction System
-🔗 [View Project](https://github.com/kellyKevin/galaxy-wellbeing-index-prediction)
-- **The Data:** Data-driven prediction modeling.
-- **The Goal:** Predicting system failure in human performance.
+- ESP32-based soil moisture monitoring
+- Real-time irrigation insights
+- Web dashboard integration
 
 ---
 
-## (Journey)
+### 📊 Galaxy Wellbeing Prediction System
+🔗 [View Project](https://github.com/kellyKevin/galaxy-wellbeing-index-prediction)
+
+- Data-driven wellbeing prediction
+- Performance and behavioral analytics
+- Predictive modeling experiments
+
+---
+
+## 💼 Experience
 
 ### 🏛 The National Treasury (IFMIS Department)
 📍 Nairobi, Kenya | 📅 May 2025 – Nov 2025
 
-**"Inside the Oracle Bunker"**
-My time at the National Treasury wasn't just about technical support; it was an exploration of the "Oracle Bunker" that powers Kenya's financial management backbone (IFMIS).
-
-- **Hardening the Backbone:** Supported **Oracle database setup** and managed **VPNs & secure authentication systems**, learning how critical infrastructure is protected from the ground up.
-- **Tracing the Chain:** Investigated system-level issues across the IFMIS ecosystem, witnessing firsthand how a single point of failure in a centralized system can ripple across an entire nation.
-- **The Insight:** This experience solidified my "Causal Chain" mindset—understanding that security is not just about code, but about protecting the nodes that sustain critical state functions.
+- Supported Oracle database setup and maintenance
+- Assisted with VPN and secure authentication systems
+- Investigated system-level technical issues within IFMIS
+- Learned enterprise infrastructure and security workflows
 
 ---
 
-## 📈 Takwimu Zangu za GitHub (GitHub Stats)
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kellykevin&show_icons=true&theme=tokyonight" />
@@ -123,16 +94,24 @@ My time at the National Treasury wasn't just about technical support; it was an 
 
 ---
 
-## 🌐 Tushirikiane (Connect With Me)
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/kellyke29748136"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/kelly-kevin-769977287"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://linktr.ee/kellykevinmomanyi"><img src="https://img.shields.io/badge/Linktree-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white"/></a>
+  <a href="https://twitter.com/kellyke29748136">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/kelly-kevin-769977287">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://linktr.ee/kellykevinmomanyi">
+    <img src="https://img.shields.io/badge/Linktree-%23000000.svg?&style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Falsafa Yangu (Philosophy)
+## ⚡ Philosophy
 
-> "Build systems that solve real problems — not just code that works. Secure the chain, or lose the system."
+> Build systems that solve real problems, prioritize resilience, and scale reliably.
