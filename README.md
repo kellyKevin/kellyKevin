@@ -36,9 +36,9 @@ graph TD
 **The Narrative:**
 At Zetech University, I built an ESP32 irrigation system for my final year project. To advise farmers, I pulled weather APIs and discovered data science. During my attachment at the National Treasury, I learned Kenya's IFMIS runs on Oracle in a secured bunker, which led me to security.
 
-Seeking to understand why critical systems need bunkers, I studied philosophy and 20th-century dictators. I traced how centralized control became famine, and how one event causes another. That causal-chain thinking led me to modern conflicts, where drone strikes cause blackouts that kill crops—the same failure mode my ESP32 was built to resist.
+Seeking to understand why critical systems need bunkers, I studied philosophy and 20th-century dictators. I traced how the Reichstag Fire became emergency powers, and how centralized control became famine. I realized that civilization is a causal chain where one event—technical or political—causes another.
 
-I am now an AWS-certified backend engineer researching **Deep Agents** and **LangChain**. I aim to formalize **'Causal Security'**: using data to map, predict, and harden the chains that connect a soil sensor to a state-level crisis.
+That causal-chain thinking led me to modern conflicts, where drone strikes cause blackouts that kill crops—the same failure mode my ESP32 was built to resist. I am now an AWS-certified backend engineer researching **Deep Agents** and **LangChain**. I aim to formalize **'Causal Security'**: using data to map, predict, and harden the chains that connect a soil sensor to a state-level crisis.
 
 ### 🎯 Why My Causal Chain Wins
 
@@ -80,7 +80,7 @@ I approach technical challenges with a structured, investigative mindset:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,vue,html,css,nodejs,express,laravel,mysql,firebase,docker,ubuntu,postman,oracle,aws" />
+    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,vue,html,css,nodejs,express,laravel,mysql,firebase,docker,ubuntu,linux,postman,oracle,aws,fastapi,pandas" />
   </a>
 </p>
 
