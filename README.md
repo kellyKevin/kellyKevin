@@ -22,7 +22,7 @@ I am not just a developer; I am a **Chain Analyst**. I don't just "jump topics"�
 
 ```mermaid
 graph TD
-    "A"["Zetech University"] -->|"Wanting to build"| "B"["Backend & AWS Certification"]
+    "A" -->|"Wanting to build"| "B"["Backend & AWS Certification"]
     "B" -->|"Production skills"| "C"["Final Year: ESP32 Irrigation IoT"]
     "C" -->|"Weather Data Needs"| "D"["API Integration & Data Discovery"]
     "D" -->|"The Oracle Bunker"| "E"["National Treasury (IFMIS)"]
@@ -42,16 +42,16 @@ I am now an AWS-certified backend engineer researching **Deep Agents** and **Lan
 
 ### 📊 The Chain Analyst vs. Typical Applicant
 
-| Feature | Typical Applicant | **The Chain Analyst (Me)** |
-| :--- | :--- | :--- |
-| **Perspective** | Sees isolated tools (Python, AWS, React) | Sees a **Causal Chain** of data and systems |
-| **Problem Solving** | Fixes the bug in front of them | Traces the **Root Cause** to its historical/technical origin |
-| **Technical Depth** | Focuses on syntax and frameworks | Focuses on **System Resilience** and "What If?" scenarios |
-| **Narrative** | "I know how to code." | "I understand how failure in one node kills the system." |
+| Feature | **The Chain ** |
+| :--- | :--- |
+| **Perspective** | Sees a **Causal Chain** of data and systems |
+| **Problem Solving** | Traces the **Root Cause** to its historical/technical origin |
+| **Technical Depth** | Focuses on **System Resilience** and "What If?" scenarios |
+| **Narrative** | "I understand how failure in one node kills the system." |
 
 ---
 
-## 🛠️ Safari ya Utatuzi (My Problem-Solving DNA)
+## 🛠️ Safari ya Utatuzi
 
 I approach technical challenges with a structured, investigative mindset:
 
@@ -99,9 +99,9 @@ I approach technical challenges with a structured, investigative mindset:
 
 ---
 
-## 💼 Uzoefu Wangu wa Kazi (Experience: A Narrative Journey)
+## (Journey)
 
-### 🏛 ICT Trainee — The National Treasury (IFMIS Department)
+### 🏛 The National Treasury (IFMIS Department)
 📍 Nairobi, Kenya | 📅 May 2025 – Nov 2025
 
 **"Inside the Oracle Bunker"**
