@@ -22,15 +22,15 @@ I am not just a developer; I am a **Chain Analyst**. I don't just "jump topics"�
 
 ```mermaid
 graph TD
-    A -->|Wanting to build| B[Backend & AWS Certification]
-    B -->|Production skills| C[Final Year: ESP32 Irrigation IoT]
-    C -->|Weather Data Needs| D[API Integration & Data Discovery]
-    D -->|[Oracle Bunker]
-    E -->|Systems Thinking| F[Security & "Why Bunkers?"]
-    F -->|Studying Failure| G[Philosophy & Historical Root Cause Analysis]
-    G -->|Modern Conflict| H[Drone Strikes -> Blackouts -> Crop Failure]
-    H -->|Resilience| I[Deep Agents & LangChain]
-    I -->|Data Science| J[Causal Security]
+    "A"["Zetech University"] -->|"Wanting to build"| "B"["Backend & AWS Certification"]
+    "B" -->|"Production skills"| "C"["Final Year: ESP32 Irrigation IoT"]
+    "C" -->|"Weather Data Needs"| "D"["API Integration & Data Discovery"]
+    "D" -->|"The Oracle Bunker"| "E"["National Treasury (IFMIS)"]
+    "E" -->|"Systems Thinking"| "F"["Security: 'Why Bunkers?'"]
+    "F" -->|"Studying Failure"| "G"["Philosophy & Historical Root Cause Analysis"]
+    "G" -->|"Modern Conflict"| "H"["Drone Strikes -> Blackouts -> Crop Failure"]
+    "H" -->|"Resilience"| "I"["Deep Agents & LangChain"]
+    "I" -->|"Data Science"| "J"["Causal Security"]
 ```
 
 **The Narrative:**
@@ -39,6 +39,15 @@ At Zetech University, I built an ESP32 irrigation system for my final year proje
 Seeking to understand why critical systems need bunkers, I studied philosophy and 20th-century dictators. I traced how centralized control became famine, and how one event causes another. That causal-chain thinking led me to modern conflicts, where drone strikes cause blackouts that kill crops—the same failure mode my ESP32 was built to resist.
 
 I am now an AWS-certified backend engineer researching **Deep Agents** and **LangChain**. I aim to formalize **'Causal Security'**: using data to map, predict, and harden the chains that connect a soil sensor to a state-level crisis.
+
+### 📊 The Chain Analyst vs. Typical Applicant
+
+| Feature | Typical Applicant | **The Chain Analyst (Me)** |
+| :--- | :--- | :--- |
+| **Perspective** | Sees isolated tools (Python, AWS, React) | Sees a **Causal Chain** of data and systems |
+| **Problem Solving** | Fixes the bug in front of them | Traces the **Root Cause** to its historical/technical origin |
+| **Technical Depth** | Focuses on syntax and frameworks | Focuses on **System Resilience** and "What If?" scenarios |
+| **Narrative** | "I know how to code." | "I understand how failure in one node kills the system." |
 
 ---
 
@@ -90,13 +99,17 @@ I approach technical challenges with a structured, investigative mindset:
 
 ---
 
-## 💼 Uzoefu Wangu wa Kazi (Experience)
+## 💼 Uzoefu Wangu wa Kazi (Experience: A Narrative Journey)
 
-### 🏛 ICT Trainee — National Treasury (IFMIS Department)
+### 🏛 ICT Trainee — The National Treasury (IFMIS Department)
 📍 Nairobi, Kenya | 📅 May 2025 – Nov 2025
-- Supported **Oracle database setup** within secure environments.
-- Managed **VPNs & secure authentication systems**.
-- Traced system-level issues across Kenya's financial management backbone.
+
+**"Inside the Oracle Bunker"**
+My time at the National Treasury wasn't just about technical support; it was an exploration of the "Oracle Bunker" that powers Kenya's financial management backbone (IFMIS).
+
+- **Hardening the Backbone:** Supported **Oracle database setup** and managed **VPNs & secure authentication systems**, learning how critical infrastructure is protected from the ground up.
+- **Tracing the Chain:** Investigated system-level issues across the IFMIS ecosystem, witnessing firsthand how a single point of failure in a centralized system can ripple across an entire nation.
+- **The Insight:** This experience solidified my "Causal Chain" mindset—understanding that security is not just about code, but about protecting the nodes that sustain critical state functions.
 
 ---
 
