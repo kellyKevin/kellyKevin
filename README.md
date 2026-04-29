@@ -100,13 +100,16 @@ I approach technical challenges with a structured, investigative mindset:
 
 ---
 
-## 💼 Uzoefu Wangu wa Kazi (Experience)
+## 💼 Uzoefu Wangu wa Kazi (Experience as a Journey)
 
-### 🏛 ICT Trainee — National Treasury (IFMIS Department)
+### 🏛 The Oracle Bunker: ICT Trainee — National Treasury (IFMIS Department)
 📍 Nairobi, Kenya | 📅 May 2025 – Nov 2025
-- Supported **Oracle database setup** within secure environments.
-- Managed **VPNs & secure authentication systems**.
-- Traced system-level issues across Kenya's financial management backbone.
+
+This wasn't just an internship; it was a deep dive into the **"Why?"** of critical infrastructure.
+- **Node Hardening:** Supported **Oracle database setup** within highly secure environments, learning how data is protected at a state level.
+- **Chain Security:** Managed **VPNs & secure authentication systems**, understanding the vital links that connect government branches.
+- **Root Cause Analysis:** Traced system-level issues across Kenya's financial management backbone (**IFMIS**), where I first saw how one system failure can ripple through a nation.
+- **The Epiphany:** Witnessing systems running in a bunker sparked my obsession with **Causal Security**—if the system is critical, why is it vulnerable?
 
 ---
 
