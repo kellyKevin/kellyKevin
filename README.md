@@ -1,7 +1,7 @@
 ![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 <h1 align="center">Mambo Vipi! 👋, I'm Kelly Kevin</h1>
-<h3 align="center">Full-Stack Developer | Backend Engineer | IoT Builder | Aspiring Data Scientist</h3>
+<h3 align="center">The Chain Analyst | Backend Engineer | IoT Builder | Aspiring Data Scientist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20views&color=0e75b6&style=flat" />
@@ -12,30 +12,57 @@
 
 ---
 
-## 🚀 Kuhusu Mimi (About Me)
+> *"I see the full chain now. Your life is already a data pipeline."*
 
-💡 I am a **self-driven IT professional** from Kenya 🇰🇪 with strong experience in **backend development, system operations, and IoT systems**.
+## 🚀 Kuhusu Mimi (The Causal Journey)
 
-- 🔭 Currently building **data-driven & IoT systems**
-- 🧠 Exploring **Data Science & Intelligent Systems (HSIS v2)**
-- ⚙️ Skilled in **API development, system design & troubleshooting**
-- 🌍 Interested in **real-world tech solutions (agriculture, infrastructure, off-grid systems)**
+I am not just a developer; I am a **Chain Analyst**. I don't just "jump topics"—I follow the data like a detective. Every step of my journey has been a logical progression toward understanding and hardening the systems that sustain civilization.
 
-📫 Reach me at: **kellymomanyi80@gmail.com**
+### 🔗 My Causal Chain
+
+```mermaid
+graph TD
+    A[Zetech IT Degree] -->|Wanting to build| B[Backend & AWS Certification]
+    B -->|Production skills| C[Final Year: ESP32 Irrigation IoT]
+    C -->|Weather Data Needs| D[API Integration & Data Discovery]
+    D -->|National Treasury| E[Attachment: IFMIS on Oracle Bunker]
+    E -->|Systems Thinking| F[Security & "Why Bunkers?"]
+    F -->|Studying Failure| G[Philosophy & Historical Root Cause Analysis]
+    G -->|Modern Conflict| H[Drone Strikes -> Blackouts -> Crop Failure]
+    H -->|Resilience| I[Deep Agents & LangChain]
+    I -->|MS Data Science| J[Causal Security]
+```
+
+**The Narrative:**
+At Zetech University, I built an ESP32 irrigation system for my final year project. To advise farmers, I pulled weather APIs and discovered data science. During my attachment at the National Treasury, I learned Kenya's IFMIS runs on Oracle in a secured bunker, which led me to security.
+
+Seeking to understand why critical systems need bunkers, I studied philosophy and 20th-century dictators. I traced how centralized control became famine, and how one event causes another. That causal-chain thinking led me to modern conflicts, where drone strikes cause blackouts that kill crops—the same failure mode my ESP32 was built to resist.
+
+I am now an AWS-certified backend engineer researching **Deep Agents** and **LangChain**. I aim to formalize **'Causal Security'**: using data to map, predict, and harden the chains that connect a soil sensor to a state-level crisis.
 
 ---
 
-## 🧠 Miradi Ninayofanyia Kazi (Currently Working On)
+## 🛠️ Safari ya Utatuzi (My Problem-Solving DNA)
+
+I approach technical challenges with a structured, investigative mindset:
+
+1.  **Trace the Chain (Root Cause Analysis):** I don't look at bugs in isolation. I look for the historical and technical sequence that led to the failure.
+2.  **Follow the Data:** I use APIs and logs to validate assumptions. If the data doesn't flow, the system doesn't exist.
+3.  **Model the Intelligence:** Whether it's an ESP32 or a Deep Agent, I design for the "What If?"—simulating failure modes before they happen.
+4.  **Harden the Nodes:** Applying security at every connection point, from the physical sensor to the cloud backend.
+
+---
+
+## 🧠 Miradi Ninayofanyia Kazi (Focus: Deep Agents & Security)
+
+### 🤖 Deep Agents & Causal Security
+> Researching how to use LangChain and Autonomous Agents to audit and secure critical infrastructure logs.
 
 ### 🧠 Human State Intelligence System (HSIS v2)
-> A system that models human internal states using behavioral data.
-
-- Tracks: energy, stress, focus, structure
-- Predicts: burnout, performance trends
-- Outputs: insights + recommendations
+> Modeling human internal states (energy, stress, focus) using behavioral data to predict and prevent burnout.
 
 ⚡ Tech Direction:
-`Python` • `FastAPI` • `Pandas` • `Machine Learning`
+`Python` • `FastAPI` • `LangChain` • `Deep Agents` • `Pandas`
 
 ---
 
@@ -43,7 +70,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,vue,html,css,nodejs,express,laravel,mysql,firebase,docker,ubuntu,postman,oracle" />
+    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,vue,html,css,nodejs,express,laravel,mysql,firebase,docker,ubuntu,postman,oracle,aws" />
   </a>
 </p>
 
@@ -53,63 +80,23 @@
 
 ### 🌱 IoT Soil Moisture Monitoring System
 🔗 [View Project](https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system)
-
-- Built using **ESP32 + sensor + LCD + web server**
-- Real-time irrigation insights
-- Works **offline (critical for rural deployment)**
-- Simulates pump automation with TT motor
-
-💡 Focus:
-`IoT` • `Embedded Systems` • `Real-world agriculture solution`
-
----
+- **The Node:** ESP32 + sensor + web server.
+- **The Impact:** Real-time irrigation insights for resilient agriculture.
 
 ### 📊 Galaxy Wellbeing Prediction System
 🔗 [View Project](https://github.com/kellyKevin/galaxy-wellbeing-index-prediction)
-
-- Data-driven prediction system
-- Focus on **analysis & modeling**
-- Foundation for future **AI/ML work**
-
-💡 Focus:
-`Data Science` • `Prediction Models`
-
----
-
-### 🌐 Seedlings E-commerce Platform
-🔗 [View Project](https://github.com/kellyKevin/Webstack_Portfolio_Project)
-
-- Built with **React + Firebase + Contentful**
-- Marketplace + educational platform
-- Authentication & CMS integration
-
-💡 Focus:
-`Fullstack Development` • `User Experience`
-
----
-
-### 💼 Developer Portfolio Website
-🔗 [View Project](https://github.com/kellyKevin/riches-kelly-portfolio)
-
-- Personal + collaborative portfolio
-- Blog + project showcase
-- Secure authentication system
-
-💡 Focus:
-`Frontend + Backend Integration`
+- **The Data:** Data-driven prediction modeling.
+- **The Goal:** Predicting system failure in human performance.
 
 ---
 
 ## 💼 Uzoefu Wangu wa Kazi (Experience)
 
 ### 🏛 ICT Trainee — National Treasury (IFMIS Department)
-📍 Nairobi, Kenya  
-📅 May 2025 – Nov 2025
-
-- Supported **Oracle database setup & configuration**
-- Managed **user authentication & access control**
-- Worked with **VPNs & secure systems**
-- Troubleshot **network & system-level issues**
+📍 Nairobi, Kenya | 📅 May 2025 – Nov 2025
+- Supported **Oracle database setup** within secure environments.
+- Managed **VPNs & secure authentication systems**.
+- Traced system-level issues across Kenya's financial management backbone.
 
 ---
 
@@ -120,16 +107,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellykevin&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 Yale Ninayoleta Mezani (What I Bring)
-
-✔ Strong **backend engineering mindset**  
-✔ Ability to build **real-world systems (IoT + web)**  
-✔ Experience with **secure systems & infrastructure**  
-✔ Growing expertise in **data science & intelligent systems**  
-✔ High adaptability in **resource-constrained environments**
 
 ---
 
@@ -145,4 +122,4 @@
 
 ## ⚡ Falsafa Yangu (Philosophy)
 
-> "Build systems that solve real problems — not just code that works."
+> "Build systems that solve real problems — not just code that works. Secure the chain, or lose the system."
