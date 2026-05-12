@@ -1,7 +1,9 @@
+# A systems thinker transitioning into intelligent systems and data science
+
 ![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 <h1 align="center">Mambo Vipi 👋, I'm Kelly Kevin</h1>
-<h3 align="center">Backend Engineer | IoT Builder | Security & Data Systems Enthusiast</h3>
+<h3 align="center">Backend Engineer | IoT Builder | Data Science & Intelligent Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kellykevin&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -14,31 +16,33 @@
 
 ## 🚀 About Me
 
-I’m a backend engineer passionate about building resilient systems, cloud infrastructure, IoT solutions, and data-driven applications.
+I am a Backend Software Engineer and IT Specialist passionate about building scalable systems and transforming data into intelligent solutions.
 
-My technical journey started at **Zetech University**, where I built an **ESP32-based irrigation system** for my final year project. While integrating weather APIs for the project, I developed a strong interest in backend systems, APIs, and data science.
+My journey began with a strong foundation in Information Technology, where I developed an interest in backend systems, APIs, and data-driven applications. Through hands-on experience and continuous learning, I have evolved into a systems thinker focused on bridging software engineering, data science, and real-world impact.
 
-During my attachment at **The National Treasury (IFMIS Department)**, I gained exposure to enterprise systems, Oracle infrastructure, VPNs, and secure authentication workflows. This experience strengthened my interest in system resilience, security, and critical infrastructure.
+During my experience at **The National Treasury (IFMIS Technical Section)**, I worked with enterprise financial systems, supporting secure infrastructure, managing access control, and ensuring system reliability. This exposure shaped my understanding of large-scale systems, data security, and critical infrastructure.
 
-Currently, I’m focused on:
-- Backend engineering
-- Cloud infrastructure & AWS
-- LangChain & autonomous agents
-- Security and systems resilience
-- Data science & analytics
+I am particularly interested in transitioning from **functional systems to intelligent systems** — integrating machine learning, predictive analytics, and real-time data pipelines to drive decision-making.
 
 ---
 
 ## 🧠 Current Focus
 
-### 🤖 Deep Agents & Security Research
-Exploring how autonomous agents and LangChain can analyze logs, automate workflows, and improve infrastructure monitoring.
+### 🌍 Intelligent Systems for Real-World Impact
+Building systems that move beyond data collection to **prediction, automation, and decision support**, especially in agriculture and public sector systems.
 
-### 📊 Human State Intelligence System (HSIS)
-Building systems that model human productivity, stress, and wellbeing using behavioral data.
+### 🤖 AI, Agents & Security
+Exploring how **AI agents and emerging technologies** can:
+- Automate workflows  
+- Enhance system monitoring  
+- Improve security and resilience  
 
-**Tech Direction:**  
-`Python` • `FastAPI` • `LangChain` • `Pandas` • `AWS`
+### 📊 Data Science & Analytics
+Focusing on:
+- Computational statistics  
+- Machine learning models  
+- Time-series and geospatial data  
+- Data-driven decision systems  
 
 ---
 
@@ -57,30 +61,79 @@ Building systems that model human productivity, stress, and wellbeing using beha
 ### 🌱 IoT Soil Moisture Monitoring System
 🔗 [View Project](https://github.com/kellyKevin/ESP32-Soil-Moisture-Monitoring-system)
 
-- ESP32-based soil moisture monitoring
-- Real-time irrigation insights
-- Web dashboard integration
+- ESP32-based real-time soil monitoring system  
+- Time-series data collection and API integration  
+- Dashboard visualization for irrigation insights  
+- Foundation for predictive agriculture systems  
 
 ---
 
-### 📊 Galaxy Wellbeing Prediction System
-🔗 [View Project](https://github.com/kellyKevin/galaxy-wellbeing-index-prediction)
+### 🌍 Geospatial Climate Risk Analysis
+- Applied **Random Forest & CNN models** on satellite data  
+- Achieved **87% accuracy** in climate risk prediction  
+- Combined environmental and spatial data for insights  
+- Focused on climate resilience and data-driven decision-making  
 
-- Data-driven wellbeing prediction
-- Performance and behavioral analytics
-- Predictive modeling experiments
+---
+
+### 🛒 Seedlings Marketplace (Full-Stack Platform)
+- Built an e-commerce platform connecting gardeners and seedling sellers  
+- Implemented **real-time inventory tracking**  
+- Designed responsive dashboards and backend APIs  
+- Integrated educational content for better farming practices  
+- Foundation for future **recommendation systems & predictive analytics**  
+
+---
+
+### 📊 Gen Z Activism Sentiment Analysis
+- Analyzed social media sentiment using NLP techniques  
+- Integrated demographic and economic datasets  
+- Explored patterns in public discourse and behavior  
+- Applied unstructured + structured data analysis  
 
 ---
 
 ## 💼 Experience
 
-### 🏛 The National Treasury (IFMIS Department)
-📍 Nairobi, Kenya | 📅 May 2025 – Nov 2025
+### 🏛 ICT Trainer – IFMIS Technical Section  
+📍 Nairobi, Kenya | 📅 May 2025 – Dec 2025  
 
-- Supported Oracle database setup and maintenance
-- Assisted with VPN and secure authentication systems
-- Investigated system-level technical issues within IFMIS
-- Learned enterprise infrastructure and security workflows
+- Provided first-line technical support for enterprise financial systems  
+- Managed user access rights and role-based permissions  
+- Configured VPN profiles for secure remote access  
+- Supported workstation deployment and system configuration  
+
+**Impact:**  
+Gained hands-on experience in **secure systems, infrastructure reliability, and data governance**, critical for building trustworthy intelligent systems.
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 BSc Information Technology  
+- 💻 Backend Software Engineering (ALX Africa)  
+- ☁️ AWS Cloud Foundations  
+- ☁️ AWS Cloud Architecting  
+
+---
+
+## 🎯 Vision
+
+I aim to integrate **IoT, edge computing, and predictive analytics** to build **climate-resilient and intelligent systems**, particularly for small-scale farmers and underserved communities.
+
+My long-term goal is to:
+
+- Transform raw data into actionable insights  
+- Build scalable and secure AI-driven systems  
+- Contribute to **data-driven decision-making in public and enterprise sectors**  
+
+---
+
+## 🚀 What I’m Moving Towards
+
+- From **data collection → intelligent prediction systems**  
+- From **software engineering → AI-driven solutions**  
+- From **functional systems → autonomous, adaptive systems**  
 
 ---
 
@@ -114,4 +167,5 @@ Building systems that model human productivity, stress, and wellbeing using beha
 
 ## ⚡ Philosophy
 
-> Build systems that solve real problems, prioritize resilience, and scale reliably.
+> Build systems that not only work — but learn, adapt, and create impact.  
+> Transform data into intelligence, and intelligence into solutions.
