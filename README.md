@@ -85,7 +85,7 @@ Focusing on:
 
 ---
 
-### 📊 Gen Z Activism Sentiment Analysis
+### 📊 Sentiment Analysis
 - Analyzed social media sentiment using NLP techniques  
 - Integrated demographic and economic datasets  
 - Explored patterns in public discourse and behavior  
