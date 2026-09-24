@@ -171,7 +171,7 @@ My long-term goal is to:
 > Transform data into intelligence, and intelligence into solutions.
 
 <p align="center">
-  <!-- QR code to CV -->
+  <-- QR code to CV -->
   <a href="https://drive.google.com/file/d/18VYToZLmSQT9hP4kbze7rN94cNMnXqGH/view?usp=sharing">
     <img src="https://drive.google.com/uc?export=view&id=18VYToZLmSQT9hP4kbze7rN94cNMnXqGH" alt="CV QR Code" width="150"/>
   </a>
